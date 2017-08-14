@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css?family=Faustina');
+body{
+
+  font-weight: 800;
+  text-align: center;
+background-color: red;
+}
+#slogan{
+  font-style: italic;
+}
+
+#offers{
+  text-align: center;
+  font-size: 20px;
+  border: 2px solid black;
+  border-radius: 8%;
+  background-color: grey;
+  margin-right:3%;
+  width:70%;
+
+}
+
+.headings {
+font-weight: bold;
+font-family: 'Faustina', serif;
+}
+header{
+padding: inherit;
+margin: 0 auto;
+
+}
+img{
+
+
+}
+
+h1{
+  border-bottom: 4px solid black;
+display: inline-block;
+
+
+}
+#backgroud{
+background-color:  grey;
+border: 2em solid black;
+
+}
+
+section{
+border: black;
+padding: 2em 2em 2em 2em;
+margin: 10px black;
+}
